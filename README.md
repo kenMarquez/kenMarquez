@@ -27,8 +27,13 @@ I believe in the power of open source to foster innovation and collaboration. Be
 ### AWS Parameter Store Env Manager
 
 - **Description**: I authored `aws-parameter-store-env-manager`, a tool designed to streamline the management of environment variables for different development stages. It simplifies configuring environment variable files, allowing for quick transitions between environments.
-- **NPM Package**: [aws-parameter-store-env-manager on NPM](https://www.npmjs.com/package/aws-parameter-store-env-manager)
 - **GitHub Repository**: [View on GitHub](https://github.com/Mariachi-IO/aws-parameter-store-env-manager)
+- **NPM Package**: [aws-parameter-store-env-manager on NPM](https://www.npmjs.com/package/aws-parameter-store-env-manager)
+  
+### DataFlow Designer Tool
+- **Description**: DataFlow Designer is a Figma widget created to streamline database modeling. It offers an interactive platform for designing and editing data table structures directly within Figma, enhancing workflow for developers and designers.
+- **GitHub Repository**: [View on GitHub](https://github.com/kenMarquez/DataFlow-Designer-Tool)
+- **Figma Community Widget**: [DataFlow Designer on Figma](https://www.figma.com/community/widget/1306067997041268479)
 
 ## Technologies and Tools
 
