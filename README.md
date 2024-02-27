@@ -21,6 +21,8 @@ I believe in the power of open source to foster innovation and collaboration. Be
 ### React Native Shake
 - **Description**: Updated the Gradle configuration to dynamically use the `rootProject` values for the Android target API level, ensuring compliance with new Google Play requirements and improving project compatibility.
 - **Link to PR/Issue**: [Dynamic Gradle values for better compatibility](https://github.com/Doko-Demo-Doa/react-native-shake/pull/23)
+  
+## My Projects
 
 ### AWS Parameter Store Env Manager
 
