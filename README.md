@@ -1,53 +1,48 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ken Márquez 👋
 
-## About Me
-
-Brief introduction about yourself. You might include your professional role, your interests in programming, technologies you enjoy, and any other details you believe define you as a developer and open source contributor.
-
-- 🔭 I'm currently working on [Project Name] or [Your Role/Job]
-- 🌱 I'm learning [Technology/Skill]
-- 👯 I'm looking to collaborate on [Type of Open Source Projects]
-- 🤔 I'm looking for help with [Topic/Technology]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something interesting about you]
+I'm passionate about contributing to open-source projects and have a keen interest in mobile and web development technologies. Here's a glimpse into my contributions and the technologies I work with.
 
 ## My Open Source Contributions
 
-Here you can highlight your contributions to open source projects. For each contribution, include the project name, a brief description of your contribution, and if possible, a link to the PR or issue.
+I believe in the power of open source to foster innovation and collaboration. Below are some of the contributions I've made to various projects, aiming to improve functionality, fix critical bugs, and enhance documentation.
 
-### Project 1
-- **Description**: Brief description of your contribution.
-- **Link to PR/Issue**: [Link here](#)
+### React Native Firebase
+- **Description**: Fixed a critical NullPointerException (NPE) issue by updating the `firebase-android-sdk` version from 29.0.2 to 29.0.3.
+- **Link to PR/Issue**: [Fix app crash on Android](https://github.com/invertase/react-native-firebase/pull/5946)
 
-### Project 2
-- **Description**: Brief description of your contribution.
-- **Link to PR/Issue**: [Link here](#)
+### Lottie React Native
+- **Description**: Added a new `renderMode` property for Android to fix a crash, alongside updating the documentation to reflect this new addition.
+- **Link to PR/Issue**: [Add renderMode property for Android](https://github.com/lottie-react-native/lottie-react-native/pull/654)
 
-(Continue listing other projects as needed)
+### React Native Voice
+- **Description**: Implemented support for Android target versions >= 11 by adding `RecognitionService` query in the manifest, streamlining the setup process for developers targeting Android 11 and above.
+- **Link to PR/Issue**: [Support Android target >= 11](https://github.com/react-native-voice/voice/pull/364)
+
+### React Native Shake
+- **Description**: Updated the Gradle configuration to dynamically use the `rootProject` values for the Android target API level, ensuring compliance with new Google Play requirements and improving project compatibility.
+- **Link to PR/Issue**: [Dynamic Gradle values for better compatibility](https://github.com/Doko-Demo-Doa/react-native-shake/pull/23)
+
+### AWS Parameter Store Env Manager
+
+- **Description**: I authored `aws-parameter-store-env-manager`, a tool designed to streamline the management of environment variables for different development stages. It simplifies configuring environment variable files, allowing for quick transitions between environments.
+- **NPM Package**: [aws-parameter-store-env-manager on NPM](https://www.npmjs.com/package/aws-parameter-store-env-manager)
+- **GitHub Repository**: [View on GitHub](https://github.com/Mariachi-IO/aws-parameter-store-env-manager)
 
 ## Technologies and Tools
 
-List the technologies and tools you have experience with or have used in your contributions. This could include programming languages, frameworks, libraries, development tools, etc.
-
-`JavaScript` `React` `Node.js` `Python` `Django` `Git` `Docker`
+`JavaScript` `React` `Node.js` `Android` `React Native` `Java` `Kotlin` `NestJS`
 
 ## GitHub Stats
 
-Include some GitHub stats to showcase your activity. You can use tools like GitHub Readme Stats to dynamically generate stats cards.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenMarquez&show_icons=true&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenMarquez&show_icons=true)
+## Top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenMarquez&layout=compact&hide=HTML)
 
 ## Badges and Acknowledgments
 
-If you've received any specific badges or acknowledgments within the open source community, mention them here.
+- Contributor Badge from React Native Firebase
+- Recognized for significant contributions to Lottie React Native
 
-- Contributor Badge from [Project]
-- [Name of Acknowledgment] Recognition
 
-## How to Contribute to Open Source Projects?
-
-A brief guide or advice based on your experience on how to start contributing to open source projects. This could be inspirational for others looking to begin.
-
----
