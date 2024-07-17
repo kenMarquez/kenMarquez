@@ -37,7 +37,7 @@ I believe in the power of open source to foster innovation and collaboration. Be
 
 ## Technologies and Tools
 
-`JavaScript` `React` `Node.js` `Android` `React Native` `Java` `Kotlin` `NestJS`
+`JavaScript` `React` `Node.js` `Android` `React Native` `Java` `Kotlin` `NestJS` `Spring Boot`
 
 ## GitHub Stats
 
