@@ -1,6 +1,6 @@
 # Hi, I'm Ken Márquez 👋
 
-I'm passionate about contributing to open-source projects and have a keen interest in mobile and web development technologies. Here's a glimpse into my contributions and the technologies I work with.
+I'm passionate about contributing to open-source projects. Here's a glimpse into my contributions and the technologies I work with.
 
 ## My Open Source Contributions
 
